@@ -6,7 +6,7 @@ Coursera getdata-006 Project: repository for analysis R. script an code book tha
 
 This repository purpose is to provide:
   1. run_analysis.R: the R script file performed to get a tidy dataset as describle in the steps below and;
-  2. code book.md: the code book that describes the the dataset
+  2. code book.md: the code book that describes the tidy dataset
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
 
