@@ -1,12 +1,13 @@
 #settig working directory
-setwd("F:/Cours/Coursera/The Data Science Specialization/Module 03 - Getting and Cleaning Data")
+#set this directory to where your sumsung data is enziped
+setwd("F:/Cours/Coursera/The Data Science Specialization/Module 03 - Getting and Cleaning Data/data/Assessments")
 
 #loading required libraries
 library(plyr)
 library(data.table)
 
 #Creating the data Directory
-dataDir<-"./data/Assessments/UCI HAR Dataset"
+dataDir<-"./UCI HAR Dataset"
 
 ########################################################################
 ##  1. Merging the training and the test sets to create one data set.
