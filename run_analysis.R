@@ -1,6 +1,6 @@
 #settig working directory
 #set this directory to where your sumsung data is enziped
-setwd("F:/Cours/Coursera/The Data Science Specialization/Module 03 - Getting and Cleaning Data/data/Assessments")
+#setwd("F:/Cours/Coursera/The Data Science Specialization/Module 03 - Getting and Cleaning Data/data/Assessments")
 
 #loading required libraries
 library(plyr)
