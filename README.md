@@ -30,4 +30,4 @@ How does the script work?
  2. Open the script in RStudio
  3. CTRL + A / CMD + A to select all the script code
  4. Press CTRL + ENTER to run the script.
-  The script creates an R tidy (space seperated) data named 'tidy_data.txt' in the directory 'UCI HAR Dataset'
+The script creates an R tidy (space seperated) data named 'tidy_data.txt' in the directory 'UCI HAR Dataset'
